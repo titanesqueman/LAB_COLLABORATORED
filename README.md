@@ -1,4 +1,2 @@
-#OUI JE LIS
-##From develop
-Test
-#now in main
+#README MAIN
+Voici le readme du main branch
