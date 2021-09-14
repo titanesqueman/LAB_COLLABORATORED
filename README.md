@@ -1,2 +1,2 @@
-#README MAIN
-Voici le readme du main branch
+# README Develop
+Voici le readme develop
